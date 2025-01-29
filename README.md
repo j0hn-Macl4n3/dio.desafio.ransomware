@@ -5,7 +5,7 @@ Este projeto se faz em base objetiva a ser educativo e demonstrar:
 
 ## Descrição
 Neste desafio de projeto, foi proposto o desenvolvimento e implementação de um Ransomware para criptografar arquivos utilizando a linguagem Python.
-Um ataque de ransomware visa criptografar e "sequestrar" arquivos, mediante o pagamento de um "resgate", geralmente em moedas virtuais para receber a chave de descriptografia para libear o acesso aos arquivos.
+Um ataque de ransomware visa criptografar e "sequestrar" arquivos, mediante o pagamento de um "resgate", geralmente em moedas virtuais para receber a chave de descriptografia para liberar o acesso aos arquivos.
 O objetivo principal é compreender os princípios por trás de um ransomware.
 
 ## Ferramentas
@@ -15,7 +15,7 @@ O objetivo principal é compreender os princípios por trás de um ransomware.
 ## Arquivos
 • ```encrypter.py```: Este arquivo contém o código responsável pela criptografia, simulando o 'sequestro' que criptografa um arquivo    
 • ```decrypter.py```: Este arquivo contém o código que permite descriptografar, simulando o 'resgate', que descriptografa o arquivo  
-• ```teste.txt```: Um arquivo de exemplo simples, contendo uma frase/trecho ou palavras para ilustrar o funcionamento código do ransomware
+• ```teste.txt```: Um arquivo de exemplo simples, contendo palavras, frase ou um texto para ilustrar o funcionamento código do ransomware
 
 ## Nota de Atenção
 ▸ Todos os procedimentos foram realizados em ambiente controlado para testes éticos de segurança e fins educativos, atentando para:
